@@ -1,4 +1,4 @@
-# Traffic_light_controller_Synthesis
+# Exp-6: Traffic_light_controller_Synthesis
 
 ## Aim:
 
@@ -44,7 +44,11 @@ Synthesis RTL Schematic :
 
 Area report:
 
+![Screenshot (342)](https://github.com/user-attachments/assets/d86c73d2-9681-40d9-8b16-95fe905c2821)
+
 Power Report:
+
+![Screenshot (341)](https://github.com/user-attachments/assets/0f3ad126-e65e-485f-9c5a-ef0c151b190a)
 
 Result:
 
